@@ -1,3 +1,0 @@
-git remote add origin https://github.com/Onay931/ai4businessgpt.git
-git branch -M main
-git push -u origin main
